@@ -1,0 +1,30 @@
+body {
+	background-color: #f08080;
+}
+h1 {
+	color: #f6d5ce ;
+}
+h2{
+	color: #ffcfc4;
+}
+p {
+	color: #fff;
+}
+.center {
+	margin: auto;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+img {
+	max-height: auto;
+	width: 400px;
+}
+li img {
+	max-height: auto;
+	width: 100px;
+	float: left;
+}
